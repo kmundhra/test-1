@@ -70,6 +70,6 @@ public class gameOfLife {
                 System.out.println(grid2.grid[i][j]);
             }
         }
-
+//hey
     }
 }
